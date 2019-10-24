@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
   const imageData = {
-    src: "https://github.com/mach3k/cloneInsta/blob/master/src/components/paisagem.jpg?raw=true",
+    src: "https://raw.githubusercontent.com/mach3k/eTic2019ReactJS/master/paisagem.jpg",
     user: {
       name: "Marcelo Ramos Machado",
       profile_image: "https://avatars0.githubusercontent.com/u/8934055?s=460&v=4",
