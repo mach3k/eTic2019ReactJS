@@ -1,5 +1,6 @@
 import React from 'react';
 import Photo from './components/photo';
+import Coment from './components/coment';
 import './App.css';
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
   return (
       <div className="App">
       <Photo {...imageData}/>
+      <Coment />
       </div>
   );
 }
